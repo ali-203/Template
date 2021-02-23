@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.top_div{
+
+
+display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+  input {
+   
+    outline: none;
+    border: none;
+    padding: 10px;
+    font-size: 14px;
+   
+    background: #f1f1f1;
+   
+
+} 
+form.example button {
+    outline: none;
+    border: none;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    float: left;
+    height: 36px;
+    width: 14%;
+    padding: 10px;
+    background: #f1f1f1;
+    font-size: 16px;
+    cursor: pointer;
+    border-right: none;
+  }
